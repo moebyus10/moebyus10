@@ -1,16 +1,38 @@
-## Hi there 👋
+Bonjour 👋
 
-<!--
-**moebyus10/moebyus10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Prénom Nom.
 
-Here are some ideas to get you started:
+Après un Master en Paléontologie, j'ai entrepris une reconversion vers les métiers de l'administration systèmes, des réseaux et de la cybersécurité.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je développe actuellement mes compétences à travers un laboratoire personnel (Homelab), des projets documentés sur GitHub et une formation en informatique.## Hi there 👋
+
+Ce que j'apprends actuellement
+
+🐧 Linux
+
+🌐 Réseaux TCP/IP
+
+🖥️ Virtualisation
+
+🔐 Cybersécurité
+
+⚙️ Bash
+
+📂 Git & GitHub
+
+| Projet          | Description                              |
+| --------------- | ---------------------------------------- |
+| 🖥️ Homelab     | Infrastructure virtuelle sous VirtualBox |
+| 🐧 Linux Labs   | Administration Linux                     |
+| 🌐 Network Labs | Configuration réseau                     |
+| ⚙️ Bash Scripts | Automatisation                           |
+| 🔐 Cyber Labs   | Sécurité informatique                    |
+Objectif
+
+🎯 Intégrer une alternance en administration systèmes & réseaux.
+
+Me contacter
+
+LinkedIn
+
+GitHub
